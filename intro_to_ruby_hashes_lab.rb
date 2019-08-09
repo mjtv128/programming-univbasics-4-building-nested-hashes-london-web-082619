@@ -13,7 +13,8 @@ def monopoly_with_third_tier
      two_pieces_owned: {}, 
      three_pieces_owned: {}, 
      four_pieces_owned: {}
-   } } }
+   }, 
+   names: {}} }
 end
 
 def monopoly_with_fourth_tier
